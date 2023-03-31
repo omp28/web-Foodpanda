@@ -1,0 +1,128 @@
+body {
+  font-family: sans-serif;
+}
+.navbar {
+  position: absolute;
+  width: 100%;
+  position: fixed;
+  display: flex;
+  background-color: rgba(245, 222, 179, 0.636);
+  /* height: 200px; */
+  align-items: center;
+  padding: 50px 0;
+}
+
+.logo {
+  margin: 0 50px;
+  height: 165px;
+  width: 165px;
+  border-radius: 70%;
+}
+.home {
+  margin: 0 160px;
+  font-size: 90px;
+  background-color: transparent;
+  border-width: 0;
+}
+.Service {
+  margin: 0 160px;
+  font-size: 90px;
+  background-color: transparent;
+  border-width: 0;
+}
+.About {
+  margin: 0 160px;
+  font-size: 90px;
+  background-color: transparent;
+  border-width: 0;
+}
+.Contact {
+  margin: 0 160px;
+  font-size: 90px;
+  background-color: transparent;
+  border-width: 0;
+}
+
+.bgimage {
+  width: 100%;
+  height: 3050px;
+  object-fit: cover;
+  /* font-size: 90px; */
+  /* border-width: 0; */
+}
+
+.serv {
+  display: flex;
+  justify-content: space-around;
+  /* margin: 1%; */
+}
+
+.si {
+  object-fit: cover;
+  border: black solid;
+  width: 800px;
+  height: 800px;
+  border-radius: 10%;
+  margin: 10px 0px 10px 390px;
+}
+.textfo {
+  font-size: 80px;
+  width: 1500px;
+  padding: 50px;
+}
+.a {
+  background-color: rgb(239, 165, 107);
+  border-radius: 150px;
+  border: solid red;
+  border-width: 8px;
+}
+.bulk {
+  object-fit: fill;
+}
+
+.textbo {
+  font-size: 80px;
+  width: 1500px;
+  padding: 50px;
+}
+
+.b {
+  background-color: rgb(239, 165, 107);
+  border-radius: 150px;
+  border: solid red;
+  border-width: 8px;
+}
+.texto {
+  font-size: 80px;
+  width: 1500px;
+  padding: 50px;
+}
+
+.c {
+  background-color: rgb(239, 165, 107);
+  border-radius: 150px;
+  border: solid red;
+  border-width: 8px;
+}
+.textsi {
+  text-align: center;
+}
+.welcome {
+  /* z-index: -1; */
+  position: absolute;
+  top: 1400px;
+  right: 1850px;
+  font-size: 200px;
+  color: black;
+  font-weight: 400;
+  /* background-color: cyan; */
+}
+.bone {
+  position: absolute;
+  top: 1750px;
+  right: 2600px;
+  font-size: 100px;
+  color: black;
+}
+
+
